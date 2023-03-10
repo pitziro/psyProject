@@ -1,0 +1,17 @@
+.App {
+    background-color: #f0eee8;
+    display: flexbox;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.25rem;
+    /* border: 1px solid blue; */
+}
+
+
+
+.zonamain {
+    display: inline-flex;
+    min-height: 85vh;
+    padding: 5vw;
+}

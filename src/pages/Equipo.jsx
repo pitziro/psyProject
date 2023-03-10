@@ -1,4 +1,4 @@
-import './Mainsec.css'
+
 
 export default function Equipo() {
     return (

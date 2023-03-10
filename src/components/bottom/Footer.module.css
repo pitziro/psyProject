@@ -1,0 +1,36 @@
+.zona_bot {
+    width: 100%;
+    min-height: 10px;
+    position: sticky;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+    display: inline-flex;
+    align-items: center;
+    align-content: center;
+    font-size: 1rem;
+}
+
+
+.zona_bot .redsocial {
+    margin: auto;
+    display: inline-flex;
+    align-items: center;
+    align-content: center;
+}
+
+.zona_bot img {
+    height: 5.1vh;
+    min-height: 25px;
+}
+
+.redsocial span {
+    margin-left: 0.25rem;
+
+}
+
+@media (max-width: 600px) {
+    .redsocial span {
+        display: none;
+    }
+}
