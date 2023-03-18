@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Nosotros",
+        "icon": "",
+        "path": "/nosotros"
+    },
+    {
+        "id": 2,
+        "title": "Nuestro Equipo",
+        "icon": "",
+        "path": "/equipo"
+    },
+    {
+        "id": 3,
+        "title": "Servicios",
+        "icon": "",
+        "childrens": [
+            {
+                "title": "Niño y Adolescente",
+                "icon": "",
+                "path": "/menores"
+            },
+            {
+                "title": "Terapia de Pareja",
+                "icon": "",
+                "path": "/pareja"
+            },
+            {
+                "title": "Individual",
+                "icon": "",
+                "path": "/individual"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Contacto",
+        "icon": "",
+        "path": "/contacto"
+    }
+]

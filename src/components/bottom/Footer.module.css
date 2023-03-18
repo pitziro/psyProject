@@ -1,17 +1,3 @@
-.zona_bot {
-    width: 100%;
-    min-height: 10px;
-    position: sticky;
-    bottom: 0;
-    background-color: rgba(0, 0, 0, 0.15);
-    overflow: hidden;
-    display: inline-flex;
-    align-items: center;
-    align-content: center;
-    font-size: 1rem;
-}
-
-
 .zona_bot .redsocial {
     margin: auto;
     display: inline-flex;

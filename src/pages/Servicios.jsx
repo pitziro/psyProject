@@ -10,6 +10,27 @@ export default function Servicios() {
                             <p className="card-text"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias fugiat 
                                 laudantium deserunt nulla, accusamus perferendis magni? Dicta, veniam nihil amet asperiores saepe 
                                 enim molestias ea doloremque unde eaque corporis at?</p>
+                                <p className="card-text"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias fugiat 
+                                laudantium deserunt nulla, accusamus perferendis magni? Dicta, veniam nihil amet asperiores saepe 
+                                enim molestias ea doloremque unde eaque corporis at?</p>
+                                <p className="card-text"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias fugiat 
+                                laudantium deserunt nulla, accusamus perferendis magni? Dicta, veniam nihil amet asperiores saepe 
+                                enim molestias ea doloremque unde eaque corporis at?</p>
+                                <p className="card-text"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias fugiat 
+                                laudantium deserunt nulla, accusamus perferendis magni? Dicta, veniam nihil amet asperiores saepe 
+                                enim molestias ea doloremque unde eaque corporis at?</p>
+                                <p className="card-text"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias fugiat 
+                                laudantium deserunt nulla, accusamus perferendis magni? Dicta, veniam nihil amet asperiores saepe 
+                                enim molestias ea doloremque unde eaque corporis at?</p>
+                                <p className="card-text"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias fugiat 
+                                laudantium deserunt nulla, accusamus perferendis magni? Dicta, veniam nihil amet asperiores saepe 
+                                enim molestias ea doloremque unde eaque corporis at?</p>
+                                <p className="card-text"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias fugiat 
+                                laudantium deserunt nulla, accusamus perferendis magni? Dicta, veniam nihil amet asperiores saepe 
+                                enim molestias ea doloremque unde eaque corporis at?</p>
+                                <p className="card-text"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias fugiat 
+                                laudantium deserunt nulla, accusamus perferendis magni? Dicta, veniam nihil amet asperiores saepe 
+                                enim molestias ea doloremque unde eaque corporis at?</p>
                         </div>
                 </div >
 

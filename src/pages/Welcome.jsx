@@ -4,7 +4,7 @@ export default function Welcome() {
     return (
             <div className="contenidos">
                 
-                <div className="grupo_index d-inline-flex align-items-center">
+                <div className="grupo_index">
                         <div className="card-body">
                             <h5 className="titulo-video">Video AMD RX Serie 6000</h5>
                             <p className="card-text"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias fugiat 
@@ -14,7 +14,7 @@ export default function Welcome() {
                 </div >
                 
                 
-                <div className="grupo_index d-inline-flex align-items-center">
+                <div className="grupo_index">
             
                     <div className="card-body ">
                         <h5 className="titulo-video">Video AMD Ryzen Serie 5000 </h5>
@@ -25,7 +25,7 @@ export default function Welcome() {
                 </div >
 
 
-                <div className="grupo_index d-inline-flex align-items-center">
+                <div className="grupo_index">
                 
                     <div className="card-body ">
                         <h5 className="titulo-video">Video Nvidia RTX Serie 3000 </h5>
@@ -36,7 +36,7 @@ export default function Welcome() {
                 </div >
                 
                 
-                <div className="grupo_index d-inline-flex align-items-center">
+                <div className="grupo_index">
     
                     <div className="card-body ">
                         <h5 className="titulo-video">Video Comparacion nuevas consolas </h5>

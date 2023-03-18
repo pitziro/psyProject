@@ -1,21 +1,24 @@
+import { BrowserRouter, Route, Routes} from 'react-router-dom';
+
 import aStyle from './App.module.css'
 
-import { BrowserRouter, Route, Routes, Navigate} from 'react-router-dom';
-
+// import Navbar from './components/top/Navbar'
 import Footer from './components/bottom/Footer'
+
 import Welcome from '../src/pages/Welcome'
-import Navbar from './components/top/Navbar'
 import Equipo from '../src/pages//Equipo';
 import Nosotros from '../src/pages/Nosotros';
 import Servicios from '../src/pages/Servicios';
 import Contacto from '../src/pages/Contacto';
-
+import NavbarB from './components/top/NavbarB';
+import Navbar from './components/top/Navbar';
 
 function App() {
 	return (
 		<div className={aStyle.App}>
 			<BrowserRouter>
 				<Navbar/>
+                {/* <NavbarB/> */}
 
 				<div className={aStyle.zonamain}>
 				<Routes>
