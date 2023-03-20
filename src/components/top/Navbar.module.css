@@ -55,6 +55,7 @@
 
 .categoryitem a:hover {
     color: var(--cFondo);
+    scale: 1.1;
 }
 
 .categoryitem a:hover::after {
@@ -103,6 +104,9 @@
 .opened {
     height: auto;
     width: auto;
+    padding-inline: 15px;
+    padding-bottom: 10px;
+    ;
 }
 
 
@@ -134,9 +138,7 @@
         position: fixed;
         top: 10dvh;
         right: -100%;
-        /* height: 50dvh;*/
         min-height: max-content;
-        /* padding-left: 5vw; */
         background-color: var(--cPaleta2);
         transition: 0.25s ease-in-out;
     }
@@ -150,6 +152,7 @@
     .subcategory_container {
         margin-top: 10px;
         position: unset;
+        background-color: unset;
     }
 
     #categorybar.show {
